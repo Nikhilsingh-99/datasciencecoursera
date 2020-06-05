@@ -1,1 +1,1 @@
-# datasciencecousera
+# datasciencecorusera
